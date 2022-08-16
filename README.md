@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img width="100%" src="./images/web_developer.gif">
+  <img width="100%" src="./images/dev.gif">
 </a>
 
 <h2 align="center"> 🔥  Hi ae , My name is Uy 🔥 </h2>
